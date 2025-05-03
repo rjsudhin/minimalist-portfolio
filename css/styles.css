@@ -34,6 +34,10 @@ body {
       gap: 1rem;
       border: 2px solid black;
       margin: 1rem auto;
+      #icon-logo {
+        width: 50px;
+        height: 50px
+      }
       #nav-bar {
         width: 100%;
         display: flex;

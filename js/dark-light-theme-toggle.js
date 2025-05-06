@@ -4,6 +4,7 @@ const rootElm = document.documentElement
 rootElm.classList.add('light')
 const darkLightToggle = document.querySelector('.dark-light-toggle')
 
+
 darkLightToggle.addEventListener('mousedown', () => {
   changeTheme()
 })

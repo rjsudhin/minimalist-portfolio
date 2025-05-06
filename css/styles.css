@@ -5,13 +5,13 @@
 }
 
 :root.dark {
-  --bg-color: #240039;
+  --bg-color: #181818;
   --clr: #f6f2ff;
 }
 
 :root.light {
-  --bg-color: #f6f2ff;
-  --clr: #240039;
+  --bg-color: #fafafa;
+  --clr: #181818;
 }
 
 /* font families */
@@ -44,7 +44,6 @@ body {
       justify-content: space-between;
       align-items: center;
       gap: 1rem;
-      border: 2px solid black;
       margin: 1rem auto;
       #icon-logo {
         width: 50px;
@@ -79,7 +78,6 @@ body {
       width: 80%;
       max-width: 800px;
       margin: 1rem auto;
-      border: 2px solid black;
       display: flex;
       justify-content: center;
       align-items: center;

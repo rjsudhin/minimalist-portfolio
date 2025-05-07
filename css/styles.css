@@ -60,6 +60,11 @@ body {
         li > a {
           text-decoration: none;
           text-transform: uppercase;
+          color: var(--clr);
+        }
+        li > a:hover {
+          text-decoration: underline;
+          padding: 1rem;
         }
       } 
 
@@ -95,14 +100,16 @@ body {
           position: absolute;
           right: 2rem;
           top: 70px;
-          background-color: #1f1f1f;
+          background-color: var(--bg-color);
           padding: 1rem;
           border-radius: 8px;
           
         }
         #nav-bar.active {
           display: flex;
-          align-items: center;
+          width: 300px;
+          align-items: flex-end;
+          padding-right: 1.5rem;
         }
 
         .dark-light-toggle {

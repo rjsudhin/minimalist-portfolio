@@ -77,17 +77,18 @@ body {
       .dark-light-toggle {
         background: none;
         border: none;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         cursor: pointer;
         color: var(--clr);
+        align-self: center;
       }
       
       /* Hamburger Menu */
       #hamburger {
-        /* display: none; */
         flex-direction: column;
         cursor: pointer;
         gap: 5px;
+        align-self: center;
         span {
           width: 25px;
           height: 3px;

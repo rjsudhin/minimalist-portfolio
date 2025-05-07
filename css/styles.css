@@ -7,11 +7,14 @@
 :root.dark {
   --bg-color: #181818;
   --clr: #f6f2ff;
+  --underLine: rgb(243, 80, 30);
 }
 
 :root.light {
   --bg-color: #fafafa;
   --clr: #181818;
+  --underLine: rgb(243, 80, 30);
+
 }
 
 /* font families */
@@ -170,6 +173,18 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        .main-heading {
+          font-size: 2.5rem;
+        }
+        .main-heading:hover {
+          text-decoration: underline;
+          text-decoration-color: var(--underLine);
+        }
+
+        .main-description {
+          font-size: 1.1rem;
+          opacity: 0.8;
+        }
       }
     }
   }

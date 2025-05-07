@@ -290,7 +290,6 @@ body {
     .container {
       width: 100%;
       #hero-container {
-        padding: 1.5rem 1rem;
         #about-first-section {
           flex-direction: column;
           gap: 2rem;

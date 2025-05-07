@@ -247,23 +247,23 @@ body {
           font-size: 1.3rem
         }
 
-        a:nth-child(1):hover {
-          color: rgba(58, 119, 58, 0.986);
+        a:nth-child(1) {
+          color: rgba(102, 204, 102, 0.986);
         }
 
-        a:nth-child(2):hover {
-          color: rgb(170, 67, 84);
+        a:nth-child(2) {
+          color: rgb(226, 56, 84);
         }
 
-        a:nth-child(3):hover {
+        a:nth-child(3) {
           color: rgb(47, 195, 240);
         }
 
-        a:nth-child(4):hover {
+        a:nth-child(4) {
           color: rgb(231, 65, 65);
         }
 
-        a:nth-child(5):hover {
+        a:nth-child(5) {
           color: rgb(253, 186, 62);
         }
       }

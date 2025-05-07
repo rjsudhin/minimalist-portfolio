@@ -251,7 +251,7 @@ body {
         padding: 1.5rem 1rem;
         #about-first-section {
           flex-direction: column;
-          gap: 1rem;
+          gap: 2rem;
         }
 
       }

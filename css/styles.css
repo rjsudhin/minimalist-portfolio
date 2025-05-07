@@ -55,7 +55,8 @@ body {
 
       #icon-logo {
         width: 55px;
-        height: 55px
+        height: 55px;
+        border: none;
       }
 
       #nav-bar {

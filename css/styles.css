@@ -128,19 +128,18 @@ body {
           display: flex;
           width: 300px;
           align-items: flex-end;
-          padding-right: 1.5rem;
         }
 
         .dark-light-toggle {
           position: absolute;
-          right: 100px;
+          right: 70px;
 
         }
 
         #hamburger {
           display: flex;
           position: absolute;
-          right: 60px;
+          right: 30px;
           span {
             background-color: var(--clr);
           }

@@ -11,7 +11,7 @@ A clean, responsive, and minimal personal portfolio website built using **HTML**
 
 ## 📸 Preview
 
-![preview](./preview.png) <!-- You can replace this with an actual screenshot -->
+![preview](./preview/preview-picture.png) <!-- You can replace this with an actual screenshot -->
 
 ---
 

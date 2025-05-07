@@ -9,13 +9,13 @@ A clean, responsive, and minimal personal portfolio website built using **HTML**
 
 ---
 
-## 📸 Preview
+## 🔗 📸 Previewm && Live Demo
 
-![preview](./preview/new-preview.png) <!-- You can replace this with an actual screenshot -->
+![![Preview](./preview/new-preview.png.png)](https://rjsudhin.github.io/minimalist-portfolio/)
+ <!-- You can replace this with an actual screenshot -->
 
 ---
 
-## Live Demo
 🔗 [Live Demo](https://rjsudhin.github.io/minimalist-portfolio/)
 
 

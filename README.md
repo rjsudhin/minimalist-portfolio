@@ -15,6 +15,10 @@ A clean, responsive, and minimal personal portfolio website built using **HTML**
 
 ---
 
+## Live Demo
+🔗 [Live Demo](https://rjsudhin.github.io/minimalist-portfolio/)
+
+
 ## 🧠 Features
 
 - ⚡ Minimal and clean design

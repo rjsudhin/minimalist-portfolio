@@ -47,7 +47,9 @@ A clean, responsive, and minimal personal portfolio website built using **HTML**
 ```bash
 git clone https://github.com/rjsudhin/minimalist-portfolio.git
 cd minimalist-portfolio
+```
 
+---
 🧑‍💻 Author
 
 Sudhin Raj B S

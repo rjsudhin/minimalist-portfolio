@@ -9,12 +9,14 @@
   --bg-color: #181818;
   --clr: #f6f2ff;
   --underLine: rgb(243, 80, 30);
+  --quote-section-bg: rgb(66, 63, 63);
 }
 
 :root.light {
   --bg-color: #fafafa;
   --clr: #181818;
   --underLine: rgb(243, 80, 30);
+  --quote-section-bg: #dff0f0;
 
 }
 
@@ -320,3 +322,38 @@ body {
 }
 
 /* About Section */
+
+#article-section {
+  width: 100%;
+  background-color: var(--quote-section-bg);
+  overflow: hidden;
+
+  .container {
+    width: 80%;
+    max-width: 800px;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+    
+    #quote-section {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      .quote {
+        font-size: clamp(1rem, 1vw + 0.5rem, 1.5rem);
+        font-style: italic;
+        color: var(--clr);
+        opacity: 0.8;
+      }
+      .sign {
+        font-size: clamp(0.875rem, 1.5vw + 0.3rem, 1.2rem);
+        align-self: flex-end;
+        color: var(--clr);
+        opacity: 0.9;
+      }
+    }
+  }
+  
+}

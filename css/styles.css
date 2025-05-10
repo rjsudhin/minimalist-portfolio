@@ -382,6 +382,10 @@ body {
         justify-content: center;
         gap: 0.6rem;
         padding: 0.5rem;
+        cursor: pointer;
+
+        
+      
         i {
           color: var(--info-icon-color);
           font-size: clamp(1rem, 1vw, 1.3rem);

@@ -277,6 +277,10 @@ body {
           font-size: 1.3rem
         }
 
+        a:hover {
+          font-size: 1.5rem;
+        }
+
         a:nth-child(1) {
           color: rgba(102, 204, 102, 0.986);
         }

@@ -342,7 +342,8 @@ body {
   width: 100%;
   background-color: var(--bg-color);
   overflow: hidden;
-  padding: 1rem 0;
+  padding: 1.5rem 0;
+  
   .container {
     width: 80%;
     height: 100%;
@@ -368,6 +369,7 @@ body {
       display: flex;
       flex-wrap: wrap;
       gap: 1rem;
+      margin-bottom: 2.5rem;
 
       .service-info {
         width: 200px;

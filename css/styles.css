@@ -98,6 +98,11 @@ body {
         color: var(--clr);
       }
       
+      .dark-light-toggle:hover {
+        transform: rotate(-30deg);
+
+      }
+      
       /* Hamburger Menu */
       #hamburger {
         display: none;

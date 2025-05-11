@@ -397,11 +397,11 @@ body {
         .info-heading {
           font-size: clamp(1rem, 1vw, 1.2rem);
           color: var(--info-heading-color);
-          text-align: center;
+          text-align: left;
         }
 
         .info-content {
-          text-align: center;
+          text-align: left;
           color: var(--clr);
           font-size: clamp(0.9rem, 1.5vw, 1.1rem); 
         }

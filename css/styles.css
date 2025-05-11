@@ -406,7 +406,8 @@ body {
         .info-content {
           text-align: left;
           color: var(--clr);
-          font-size: clamp(0.9rem, 1.5vw, 1.1rem); 
+          font-size: clamp(0.9rem, 2vw, 1rem);
+
         }
 
       }

@@ -5,13 +5,16 @@
   scroll-behavior: smooth;
 }
 
-:root.dark {
-  --bg-color: #333030f6;
-  --clr: #f6f2ff;
-  --underLine: rgb(243, 80, 30);
-  --quote-section-bg: rgb(66, 63, 63);
-  --info-icon-color: rgb(137, 186, 209);
-  --info-heading-color: rgb(146, 207, 248);
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #333030f6;
+    --clr: #f6f2ff;
+    --underLine: rgb(243, 80, 30);
+    --quote-section-bg: rgb(66, 63, 63);
+    --info-icon-color: rgb(137, 186, 209);
+    --info-heading-color: rgb(146, 207, 248);
+  }
+
 }
 
 :root.light {

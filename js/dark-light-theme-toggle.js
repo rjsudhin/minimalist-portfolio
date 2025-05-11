@@ -17,8 +17,8 @@ function changeTheme() {
     icon.classList.add('fa-moon')
     console.log('changed to dark theme')
   } else {
-    rootElm.classList.remove('dark')
     rootElm.classList.add('light')
+    rootElm.classList.remove('dark')
     console.log('changed to light theme')
     icon.classList.remove('fa-moon')
     icon.classList.add('fa-sun')

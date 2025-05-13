@@ -48,6 +48,7 @@ body {
   top: 0;
   
   .container {
+    position: relative;
     width: 80%;
     max-width: 800px;
     height: 100%;
@@ -150,7 +151,6 @@ body {
       }
 
       #hamburger {
-        margin-right: 1rem;
         display: flex;
         position: absolute;
         right: 0;

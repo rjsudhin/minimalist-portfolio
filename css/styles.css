@@ -12,8 +12,8 @@
   --clr: #f6f2ff;
   --underLine: rgb(243, 80, 30);
   --quote-section-bg: rgb(66, 63, 63);
-  --info-icon-color: rgb(137, 186, 209);
-  --info-heading-color: rgb(146, 207, 248);
+  --info-icon-color: rgb(115, 202, 74);
+  --info-heading-color: rgb(99, 187, 88);
 }
 
 :root.light {
@@ -22,8 +22,8 @@
   --clr: #181818;
   --underLine: rgb(243, 80, 30);
   --quote-section-bg: #dff0f0;
-  --info-icon-color: rgb(109, 182, 142);
-  --info-heading-color: rgb(109, 185, 150)
+  --info-icon-color: rgb(61, 179, 209);
+  --info-heading-color: rgb(22, 207, 176);
 
 }
 

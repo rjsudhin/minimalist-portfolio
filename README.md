@@ -21,7 +21,6 @@ A clean, responsive, and minimal personal portfolio website built using **HTML**
 
 ## 🧠 Features
 
-- ⚡ Minimal and clean design
 - 🌙 Dark/Light theme toggle (with icon)
 - 🎨 Responsive layout for all screen sizes
 - 🌐 Social media link buttons
